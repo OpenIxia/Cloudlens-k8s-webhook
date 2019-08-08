@@ -15,3 +15,8 @@ This project requires the following Golang dependencies:
 - k8s.io/apimachinery/pkg/runtime
 - k8s.io/apimachinery/pkg/runtime/serializer
 - k8s.io/kubernetes/pkg/apis/core/v1
+
+### Building Image
+Running the build script will push the image to Docker under michawan/sidecar-injector
+
+The webhook image has already been built and is currently hosted at michawan/sidecar-injector on the Docker hub
