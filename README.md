@@ -19,4 +19,6 @@ This project requires the following Golang dependencies:
 ### Building Image
 Running the build script will push the image to Docker under michawan/sidecar-injector
 
+---
+
 The webhook image has already been built and is currently hosted at michawan/sidecar-injector on the Docker hub
