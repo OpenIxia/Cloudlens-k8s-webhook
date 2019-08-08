@@ -17,7 +17,7 @@ This project requires the following Golang dependencies:
 - k8s.io/kubernetes/pkg/apis/core/v1
 
 ### Building Image
-Running the build script will push the image to Docker under michawan/sidecar-injector
+Running the ```build``` script will push the image to Docker under michawan/sidecar-injector
 
 ---
 
