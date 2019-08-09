@@ -35,8 +35,8 @@ var ignoredNamespaces = []string {
 }
 
 const (
-	admissionWebhookAnnotationInjectKey = "keysight.michawan.webhook/inject"
-	admissionWebhookAnnotationStatusKey = "keysight.michawan.webhook/status"
+	admissionWebhookAnnotationInjectKey = "keysight.cloudlens.webhook/inject"
+	admissionWebhookAnnotationStatusKey = "keysight.cloudlens.webhook/status"
 )
 
 type WebhookServer struct {
